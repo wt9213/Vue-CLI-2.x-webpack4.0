@@ -1,8 +1,8 @@
 {
-  "name": "acc-discover",
+  "name": "vue_wepack4.0",
   "version": "1.0.0",
-  "description": "acc-discover",
-  "author": "teng <teng.wang@zhangmen.com>",
+  "description": "vue_wepack4",
+  "author": "teng",
   "private": true,
   "scripts": {
     "dev": "webpack-dev-server --inline --progress --config build/webpack.dev.conf.js",
